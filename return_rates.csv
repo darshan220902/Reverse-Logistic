@@ -1,0 +1,400 @@
+RANDOM ,PRODUCT ID,CUSTOMER ID,RETURN DATE,RETURN CONDITION,RETURN REASON,TRANSACTION ID,RETURN TYPE,CITY,SELLER ID,LABEL,ITEM SOLD OUT COUNT,ITEMS RETURN COUNT,ITEM TYPE,RETURN REQUEST,PRE VERIFICATION,CUSTOMER COMPLAINT
+0.465526325,1234679,6767000,10-01-2023,New,Incorrect item,10001,mail,Jaipur,7141,Not Fraudulent,6,3,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.491306273,1234657,6770000,10-01-2023,Damaged,Defective item,10002,in-person,Chennai,6981,Not Fraudulent,10,8,Bags Wallet Luggage,Accepted,Completed,Extremely poor quality products
+0.452329579,1234701,6773000,10-01-2023,Used,Incorrect item,10003,in-person,Chennai,3452,Not Fraudulent,3,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.093225127,1234613,6776000,10-01-2023,Used,Incorrect item,10004,in-person,Chennai,5678,Fraudulent,5,5,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.787047023,1234789,6779000,10-01-2023,New,Incorrect item,10005,in-person,Mumbai,5679,Not Fraudulent,6,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.759675645,1234437,6782000,10-01-2023,New,Incorrect item,10006,mail,Jaipur,4657,Not Fraudulent,4,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.501061336,1235141,6785000,10-01-2023,Used,Missing item,10007,mail,Jaipur,4738,Not Fraudulent,1,1,Bags Wallet Luggage,Not Accepted,Not Completed,Getting wrong color and sizes
+0.621275826,1233733,6788000,10-01-2023,New,Incorrect item,10008,mail,Bangalore,1212,Not Fraudulent,8,5,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.255537989,1236549,6791000,10-01-2023,Damaged,Defective item,10009,mail,Bangalore,1212,Fraudulent,6,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.556524765,1230917,6791000,10-01-2023,Used,Missing item,10010,in-person,Chennai,1212,Not Fraudulent,1,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.110371167,1242181,6791000,10-01-2023,Used,Missing item,10011,mail,Bangalore,7141,Fraudulent,2,2,Clothing,Accepted,Completed,Wrong items delivered
+0.738573355,1219653,6791000,10-01-2023,Used,Missing item,10012,in-person,Mumbai,3452,Not Fraudulent,3,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.693827742,1264709,6791000,10-01-2023,Damaged,Defective item,10013,mail,Bangalore,3452,Not Fraudulent,5,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.213986301,,6806000,10-01-2023,Used,Defective item,10014,mail,Bangalore,6981,Fraudulent,10,9,Shoes and Footwear,Accepted,Completed,Extremely poor quality products
+0.193540774,1354821,6809000,10-01-2023,Used,Defective item,10015,in-person,Mumbai,5678,Fraudulent,1,0,Clothing,Accepted,Completed,Satisfied
+0.007529643,2349801,6812000,10-01-2023,Used,Defective item,10016,in-person,Mumbai,5678,Fraudulent,1,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.141441682,2347880,6710000,10-01-2023,Used,Missing item,10017,in-person,Mumbai,7141,Fraudulent,2,0,Clothing,Accepted,Completed,Satisfied
+0.803798926,2351722,6713000,10-01-2023,Used,Missing item,10018,in-person,Mumbai,5679,Not Fraudulent,5,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.571384124,2344038,6716000,10-01-2023,Damaged,Defective item,10019,mail,Jaipur,4657,Not Fraudulent,6,4,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.144919437,2359406,6719000,11-01-2023,Used,Missing item,10020,mail,Bangalore,7141,Fraudulent,8,7,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.225212684,,6722000,11-01-2023,Used,Missing item,10021,in-person,Mumbai,5679,Fraudulent,1,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.223357281,2390142,6722000,11-01-2023,Used,Missing item,10022,in-person,Mumbai,6981,Fraudulent,6,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.573056124,2267198,6722000,11-01-2023,Used,Missing item,10023,in-person,Mumbai,4657,Not Fraudulent,7,6,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.840816129,2513086,6722000,11-01-2023,Used,Missing item,10024,mail,Mumbai,5679,Not Fraudulent,3,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.780868787,2021310,6722000,11-01-2023,Damaged,Missing item,10025,mail,Mumbai,6981,Not Fraudulent,2,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.241647082,3004862,6722000,11-01-2023,Used,Missing item,10026,mail,,4657,Fraudulent,1,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.082674131,3005678,6722000,11-01-2023,New,Missing item,10027,in-person,,6981,Fraudulent,6,2,Clothing,Accepted,Completed,Wrong items delivered
+0.391069704,3006494,6743000,11-01-2023,Used,Missing item,10028,in-person,,4657,Fraudulent,9,7,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.8734849,3007310,6746000,11-01-2023,Damaged,Defective item,10029,in-person,Chennai,5678,Not Fraudulent,4,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.02863232,3008126,6749000,12-01-2023,Damaged,Defective item,10030,mail,Jaipur,5679,Fraudulent,8,3,Clothing,Accepted,Completed,Wrong items delivered
+0.806108644,3008942,6752000,12-01-2023,Used,Missing item,10031,in-person,Mumbai,4657,Not Fraudulent,9,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.768394163,3009758,6755000,12-01-2023,New,Incorrect item,10032,mail,Jaipur,1212,Not Fraudulent,7,5,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.23028156,3010574,6758000,12-01-2023,Used,Missing item,10033,mail,Jaipur,7141,Fraudulent,6,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.127449596,3011390,6761000,12-01-2023,Damaged,Defective item,10034,in-person,Mumbai,1212,Fraudulent,2,2,Clothing,Accepted,Completed,Wrong items delivered
+0.235432059,3012206,6764000,12-01-2023,Used,Missing item,10035,in-person,Mumbai,1212,Fraudulent,10,5,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.995951439,3013022,6767000,12-01-2023,New,Incorrect item,10036,in-person,Mumbai,7141,Not Fraudulent,5,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.579064003,3013838,6770000,12-01-2023,Damaged,Defective item,10037,mail,Jaipur,1212,Not Fraudulent,9,6,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.343314302,3014654,6773000,12-01-2023,Used,Defective item,10038,,Bangalore,4657,Fraudulent,6,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.666760849,3015470,6776000,12-01-2023,Used,Defective item,10039,in-person,Chennai,7141,Not Fraudulent,6,6,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.231051414,3016286,6779000,12-01-2023,Used,Defective item,10040,mail,Bangalore,1212,Fraudulent,9,8,Shoes and Footwear,Accepted,Completed,Extremely poor quality products
+0.45476994,3017102,6779000,13-01-2023,Used,Defective item,10041,in-person,Mumbai,5679,Not Fraudulent,5,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.301115397,3017918,6779000,13-01-2023,New,Incorrect item,10042,in-person,Chennai,7141,Fraudulent,8,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.313818651,3018734,6779000,13-01-2023,Used,Incorrect item,10043,in-person,Chennai,1212,Fraudulent,10,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.064982119,3019550,6779000,14-01-2023,Used,Incorrect item,10044,in-person,Chennai,1212,Fraudulent,6,0,Clothing,Accepted,Completed,Satisfied
+0.126942663,3020366,6779000,14-01-2023,Used,Incorrect item,10045,in-person,Mumbai,6981,Fraudulent,1,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.471955149,3021182,6797000,15-01-2023,Used,Missing item,10046,in-person,Mumbai,1212,Not Fraudulent,1,1,Bags Wallet Luggage,Accepted,Completed,Getting wrong color and sizes
+0.513677289,3021998,6800000,15-01-2023,New,Incorrect item,10047,in-person,Chennai,5678,Not Fraudulent,10,2,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.44437567,3022814,6803000,15-01-2023,Used,Missing item,10048,mail,Bangalore,1212,Fraudulent,7,6,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.20612097,3023630,6806000,15-01-2023,Damaged,Defective item,10049,in-person,Chennai,4657,Fraudulent,10,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.277022928,3024446,6809000,15-01-2023,New,Incorrect item,10050,in-person,Mumbai,7141,Fraudulent,1,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.755174625,3025262,6812000,15-01-2023,Damaged,Incorrect item,10051,in-person,Chennai,1212,Not Fraudulent,7,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.267089928,3026078,6815000,15-01-2023,Damaged,Defective item,10052,mail,Jaipur,3452,Fraudulent,3,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.561743358,3026894,6818000,15-01-2023,Used,Missing item,10053,in-person,Chennai,3452,Not Fraudulent,2,2,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.756099137,3027710,6821000,15-01-2023,Used,Missing item,10054,mail,Bangalore,3452,Not Fraudulent,8,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.186860002,3028526,6824000,15-01-2023,Used,Missing item,10055,mail,Jaipur,5679,Fraudulent,8,6,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.194434714,3029342,6827000,15-01-2023,Damaged,Defective item,10056,in-person,Mumbai,7141,Fraudulent,7,0,Clothing,Accepted,Completed,Satisfied
+0.626441792,3030158,6830000,15-01-2023,Used,Missing item,10057,in-person,Mumbai,7141,Not Fraudulent,1,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.605164064,3030974,6833000,15-01-2023,Damaged,Defective item,10058,mail,Bangalore,7141,Not Fraudulent,8,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.963054324,3031790,6836000,16-01-2023,New,Incorrect item,10059,mail,Bangalore,7141,Not Fraudulent,7,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.493360421,3032606,6839000,16-01-2023,Damaged,Defective item,10060,mail,Jaipur,7141,Not Fraudulent,2,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.256932318,3033422,6821000,16-01-2023,Damaged,Defective item,10061,in-person,Chennai,5679,Fraudulent,3,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.378996642,3034238,6845000,16-01-2023,Damaged,Defective item,10062,in-person,Chennai,5678,Fraudulent,8,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.54740107,3035054,6848000,16-01-2023,New,Incorrect item,10063,in-person,Chennai,3452,Not Fraudulent,2,1,Bags Wallet Luggage,Not Accepted,Not Completed,Getting wrong color and sizes
+0.407130751,3035870,6851000,16-01-2023,Used,Incorrect item,10064,mail,Bangalore,3452,Fraudulent,1,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.507016741,3036686,6845000,16-01-2023,Damaged,Incorrect item,10065,in-person,Chennai,3452,Not Fraudulent,9,6,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.177522321,3037502,6857000,16-01-2023,New,Incorrect item,10066,mail,Bangalore,3452,Fraudulent,4,4,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.563006057,3038318,6860000,17-01-2023,Damaged,Defective item,10067,in-person,Mumbai,3452,Not Fraudulent,9,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.912962259,3039134,6845000,17-01-2023,Damaged,Defective item,10068,mail,Bangalore,3452,Not Fraudulent,1,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.977000233,3039950,6866000,17-01-2023,Damaged,Defective item,10069,mail,Jaipur,1212,Not Fraudulent,4,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.759338839,3040766,6869000,17-01-2023,Used,Missing item,10070,mail,Jaipur,7141,Not Fraudulent,8,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.249029422,3041582,6821000,17-01-2023,Damaged,Defective item,10071,mail,Jaipur,1212,Fraudulent,1,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.131633089,3042398,6845000,17-01-2023,Used,Defective item,10072,in-person,Mumbai,5678,Fraudulent,10,5,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.796186419,3043214,6878000,17-01-2023,Used,Defective item,10073,in-person,Mumbai,5678,Not Fraudulent,10,8,Electronic Gadgets,Not Accepted,Not Completed,Extremely poor quality products
+0.7130762,3044030,6881000,17-01-2023,Used,Defective item,10074,mail,Jaipur,5678,Not Fraudulent,8,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.596281641,3044846,6884000,17-01-2023,Damaged,Defective item,10075,mail,Bangalore,5678,Not Fraudulent,6,3,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.576732242,3045662,6845000,17-01-2023,Used,Missing item,10076,mail,Bangalore,5678,Not Fraudulent,8,5,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.850962298,3046478,6890000,17-01-2023,Damaged,Defective item,10077,mail,Bangalore,5678,Not Fraudulent,4,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.81281977,3047294,6893000,17-01-2023,Used,Missing item,10078,mail,Jaipur,1212,Not Fraudulent,7,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.223923347,3048110,6896000,17-01-2023,Damaged,Defective item,10079,mail,Jaipur,5678,Fraudulent,4,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.981082887,3048926,6899000,17-01-2023,Used,Missing item,10080,in-person,Mumbai,1212,Not Fraudulent,5,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.615865033,3049742,7100000,17-01-2023,Damaged,Defective item,10081,mail,Jaipur,5679,Not Fraudulent,3,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.81518702,3050558,6905000,17-01-2023,New,Incorrect item,10082,mail,Bangalore,7141,Not Fraudulent,10,5,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.912248688,3051374,6908000,17-01-2023,Damaged,Defective item,10083,mail,Jaipur,1212,Not Fraudulent,1,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.534577947,3052190,7100000,17-01-2023,Used,Missing item,10084,mail,Jaipur,5678,Not Fraudulent,10,2,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.410448746,3053006,6914000,17-01-2023,Used,Missing item,10085,mail,Bangalore,1212,Fraudulent,3,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.339467618,3053822,6917000,17-01-2023,Used,Missing item,10086,in-person,Chennai,7141,Fraudulent,6,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.9111728,3054638,7100000,17-01-2023,New,Incorrect item,10087,in-person,Chennai,1212,Not Fraudulent,8,8,Sports Fitness,Not Accepted,Not Completed,Extremely poor quality products
+0.871539251,3055454,6923000,18-01-2023,Damaged,Defective item,10088,mail,Jaipur,1212,Not Fraudulent,2,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.840885727,3056270,6821000,18-01-2023,Used,Missing item,10089,mail,Jaipur,3452,Not Fraudulent,1,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.050252607,3057086,6929000,18-01-2023,Used,Missing item,10090,mail,Jaipur,1212,Fraudulent,9,6,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.863459104,3057902,7100000,18-01-2023,Used,Missing item,10091,in-person,Mumbai,3452,Not Fraudulent,8,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.243443112,3058718,6935000,18-01-2023,Damaged,Defective item,10092,mail,Jaipur,1212,Fraudulent,5,5,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.108831824,3059534,6938000,18-01-2023,Used,Incorrect item,10093,in-person,Mumbai,1212,Fraudulent,5,0,Clothing,Accepted,Completed,Satisfied
+0.842890672,3060350,7100000,18-01-2023,Used,Incorrect item,10094,in-person,Mumbai,7141,Not Fraudulent,2,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.83107912,3061166,6821000,18-01-2023,Used,Incorrect item,10095,mail,Jaipur,1212,Not Fraudulent,10,7,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.068600603,3061982,6947000,18-01-2023,New,Incorrect item,10096,mail,Jaipur,3452,Fraudulent,8,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.320935682,3062798,6950000,18-01-2023,Used,Missing item,10097,in-person,Mumbai,5679,Fraudulent,10,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.092997163,3063614,6953000,18-01-2023,New,Incorrect item,10098,in-person,Chennai,1212,Fraudulent,7,4,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.558419675,3064430,6956000,18-01-2023,Used,Missing item,10099,in-person,Mumbai,3452,Not Fraudulent,4,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.707760977,3065246,6959000,18-01-2023,New,Incorrect item,10100,mail,Bangalore,1212,Not Fraudulent,3,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.782489878,3066062,6962000,19-01-2023,Damaged,Defective item,10101,mail,Bangalore,1212,Not Fraudulent,4,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.652344041,3066878,6845000,19-01-2023,New,Incorrect item,10102,mail,Jaipur,1212,Not Fraudulent,4,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.068661596,3067694,6968000,19-01-2023,Used,Missing item,10103,mail,Bangalore,3452,Fraudulent,7,7,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.113783722,3068510,6971000,19-01-2023,Used,Missing item,10104,in-person,Mumbai,1212,Fraudulent,9,4,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.564086656,3069326,6821000,19-01-2023,New,Incorrect item,10105,in-person,Mumbai,1212,Not Fraudulent,4,3,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.547828286,3070142,6977000,19-01-2023,Damaged,Defective item,10106,mail,Bangalore,7141,Not Fraudulent,2,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.935913115,3070958,6980000,19-01-2023,Used,Defective item,10107,mail,Bangalore,4657,Not Fraudulent,2,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.362344563,3071774,7100000,19-01-2023,Used,Defective item,10108,mail,Jaipur,4657,Fraudulent,3,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.418905897,3072590,6986000,19-01-2023,Used,Missing item,10109,in-person,Chennai,4657,Fraudulent,6,3,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.221178906,3073406,6989000,19-01-2023,Used,Missing item,10110,in-person,Chennai,5678,Fraudulent,7,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.362658998,3074222,6992000,20-01-2023,Used,Missing item,10111,in-person,Mumbai,1212,Fraudulent,10,9,Shoes and Footwear,Accepted,Completed,Extremely poor quality products
+0.294836018,3075038,7100000,20-01-2023,Damaged,Defective item,10112,in-person,Chennai,5679,Fraudulent,5,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.893527809,3075854,6998000,20-01-2023,New,Defective item,10113,in-person,Chennai,1212,Not Fraudulent,4,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.690868811,3076670,7001000,20-01-2023,Used,Defective item,10114,mail,Jaipur,7141,Not Fraudulent,9,9,Electronic Gadgets,Not Accepted,Not Completed,Extremely poor quality products
+0.453061513,3077486,7004000,20-01-2023,New,Defective item,10115,mail,Bangalore,1212,Not Fraudulent,1,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.743325067,3078302,6821000,20-01-2023,Used,Missing item,10116,in-person,Chennai,1212,Not Fraudulent,9,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.671955742,3079118,7010000,20-01-2023,New,Incorrect item,10117,mail,Bangalore,5678,Not Fraudulent,10,5,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.894821425,3079934,7013000,20-01-2023,Used,Missing item,10118,mail,Bangalore,1212,Not Fraudulent,5,5,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.192664216,3080750,6821000,20-01-2023,Damaged,Defective item,10119,mail,Jaipur,1212,Fraudulent,8,2,Clothing,Accepted,Completed,Wrong items delivered
+0.101475814,3081566,7019000,20-01-2023,Used,Missing item,10120,in-person,Mumbai,3452,Fraudulent,4,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.48723589,3082382,7022000,20-01-2023,Used,Missing item,10121,in-person,Mumbai,1212,Not Fraudulent,10,3,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.168244186,3083198,6845000,20-01-2023,Used,Missing item,10122,in-person,Chennai,1212,Fraudulent,8,4,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.618715438,3084014,7028000,21-01-2023,Used,Missing item,10123,in-person,Mumbai,3452,Not Fraudulent,8,4,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.114773828,3084830,7031000,21-01-2023,New,Incorrect item,10124,mail,Bangalore,1212,Fraudulent,10,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.198402273,3085646,7034000,21-01-2023,Used,Incorrect item,10125,in-person,Mumbai,6981,Fraudulent,2,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.797544731,3086462,7037000,21-01-2023,Used,Incorrect item,10126,in-person,Mumbai,5679,Not Fraudulent,1,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.938050054,3087278,7040000,21-01-2023,Damaged,Defective item,10127,mail,Jaipur,1212,Not Fraudulent,7,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.220226293,3088094,7043000,21-01-2023,Used,Missing item,10128,mail,Jaipur,1212,Fraudulent,2,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.27939837,3088910,7046000,21-01-2023,New,Incorrect item,10129,in-person,Mumbai,3452,Fraudulent,10,8,Shoes and Footwear,Accepted,Completed,Extremely poor quality products
+0.227708964,3089726,7049000,21-01-2023,Used,Missing item,10130,in-person,Chennai,1212,Fraudulent,1,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.502047603,3090542,7052000,21-01-2023,Used,Missing item,10131,in-person,Mumbai,1212,Not Fraudulent,7,5,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.269324307,3091358,6845000,21-01-2023,Damaged,Defective item,10132,mail,Bangalore,5678,Fraudulent,9,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.448244669,3092174,7058000,21-01-2023,Used,Missing item,10133,in-person,Chennai,1212,Fraudulent,9,3,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.850373215,3092990,7061000,21-01-2023,Used,Missing item,10134,in-person,Chennai,7141,Not Fraudulent,9,7,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.821221354,3093806,7064000,22-01-2023,New,Incorrect item,10135,mail,Jaipur,1212,Not Fraudulent,9,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.018188674,3094622,7067000,22-01-2023,Damaged,Defective item,10136,mail,Jaipur,1212,Fraudulent,4,4,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.714698596,3095438,6845000,22-01-2023,Used,Missing item,10137,in-person,Mumbai,3452,Not Fraudulent,10,4,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.44029287,3096254,7073000,22-01-2023,New,Incorrect item,10138,mail,Bangalore,5679,Fraudulent,9,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.054129125,3097070,7076000,22-01-2023,Used,Missing item,10139,in-person,Chennai,1212,Fraudulent,7,3,Clothing,Accepted,Completed,Wrong items delivered
+0.46281658,3097886,7079000,22-01-2023,Damaged,Defective item,10140,in-person,Mumbai,3452,Not Fraudulent,6,4,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.291992757,3098702,7082000,22-01-2023,New,Incorrect item,10141,in-person,Chennai,1212,Fraudulent,3,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.646189958,3099518,6821000,22-01-2023,Used,Defective item,10142,in-person,Chennai,4657,Not Fraudulent,6,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.422245466,3100334,7088000,22-01-2023,Damaged,Defective item,10143,mail,Bangalore,1212,Fraudulent,10,4,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.577863509,3101150,7091000,22-01-2023,New,Incorrect item,10144,in-person,Chennai,7141,Not Fraudulent,10,6,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.799906763,3101966,6821000,22-01-2023,New,Incorrect item,10145,mail,Bangalore,1212,Not Fraudulent,8,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.862973359,3102782,7097000,22-01-2023,Used,Incorrect item,10146,mail,Jaipur,4657,Not Fraudulent,6,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.170969064,3103598,7100000,23-01-2023,Used,Incorrect item,10147,mail,Jaipur,1212,Fraudulent,10,9,Clothing,Accepted,Completed,Extremely poor quality products
+0.813504711,3104414,7103000,23-01-2023,Damaged,Defective item,10148,in-person,Mumbai,1212,Not Fraudulent,6,6,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.91201825,3105230,7106000,23-01-2023,Used,Missing item,10149,mail,Jaipur,5679,Not Fraudulent,5,5,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.197756075,3106046,7109000,23-01-2023,New,Incorrect item,10150,mail,Jaipur,1212,Fraudulent,9,8,Clothing,Accepted,Completed,Extremely poor quality products
+0.693630631,3106862,7112000,23-01-2023,Damaged,Defective item,10151,in-person,Mumbai,6981,Not Fraudulent,10,4,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.43897616,3107678,7115000,23-01-2023,New,Incorrect item,10152,mail,Bangalore,3452,Fraudulent,8,8,Bags Wallet Luggage,Accepted,Completed,Extremely poor quality products
+0.640901114,3108494,7118000,23-01-2023,New,Incorrect item,10153,in-person,Chennai,1212,Not Fraudulent,7,7,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.828494409,3109310,7121000,23-01-2023,New,Incorrect item,10154,mail,Bangalore,5679,Not Fraudulent,3,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.189556975,3110126,7124000,23-01-2023,Damaged,Defective item,10155,mail,Jaipur,1212,Fraudulent,4,2,Clothing,Accepted,Completed,Wrong items delivered
+0.298578861,3110942,7127000,24-01-2023,Used,Missing item,10156,in-person,Mumbai,1212,Fraudulent,8,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.403046012,3111758,7130000,24-01-2023,Damaged,Defective item,10157,in-person,Chennai,3452,Fraudulent,4,1,Bags Wallet Luggage,Accepted,Completed,Getting wrong color and sizes
+0.22420921,3112574,7133000,24-01-2023,Used,Missing item,10158,in-person,Chennai,1212,Fraudulent,5,5,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.847206169,3113390,7136000,24-01-2023,Used,Missing item,10159,in-person,Mumbai,1212,Not Fraudulent,4,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.700767596,3114206,7139000,24-01-2023,Damaged,Defective item,10160,mail,Jaipur,1212,Not Fraudulent,6,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.377027688,3115022,7142000,24-01-2023,Used,Missing item,10161,mail,Bangalore,6981,Fraudulent,8,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.401012537,3115838,7145000,24-01-2023,Used,Missing item,10162,in-person,Chennai,1212,Fraudulent,3,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.115305124,3116654,7148000,24-01-2023,New,Incorrect item,10163,in-person,Chennai,1212,Fraudulent,5,2,Clothing,Accepted,Completed,Wrong items delivered
+0.576128359,3117470,7151000,24-01-2023,Used,Missing item,10164,in-person,Mumbai,5679,Not Fraudulent,1,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.052340626,3118286,7154000,24-01-2023,New,Incorrect item,10165,mail,Bangalore,1212,Fraudulent,9,8,Clothing,Accepted,Completed,Extremely poor quality products
+0.877569762,3119102,7157000,24-01-2023,Used,Missing item,10166,in-person,Mumbai,6981,Not Fraudulent,5,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.024562066,3119918,7160000,25-01-2023,Used,Incorrect item,10167,mail,Jaipur,1212,Fraudulent,6,5,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.939856936,3120734,7163000,25-01-2023,New,Incorrect item,10168,in-person,Mumbai,5678,Not Fraudulent,9,6,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.639908294,3121550,7166000,25-01-2023,Used,Missing item,10169,mail,Jaipur,1212,Not Fraudulent,3,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.204947912,3122366,7169000,25-01-2023,Used,Defective item,10170,mail,Bangalore,5678,Fraudulent,1,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.857606376,3123182,7172000,25-01-2023,Used,Defective item,10171,in-person,Mumbai,4738,Not Fraudulent,5,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.585884311,3123998,7175000,25-01-2023,Damaged,Defective item,10172,mail,Jaipur,4738,Not Fraudulent,4,1,Bags Wallet Luggage,Not Accepted,Not Completed,Getting wrong color and sizes
+0.766178659,3124814,7178000,25-01-2023,Used,Missing item,10173,mail,Bangalore,4738,Not Fraudulent,3,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.412421606,3125630,7181000,25-01-2023,Used,Missing item,10174,mail,Jaipur,6981,Fraudulent,6,6,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.024508484,3126446,7184000,25-01-2023,New,Incorrect item,10175,in-person,Chennai,1212,Fraudulent,7,5,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.283497556,3127262,7187000,25-01-2023,Used,Missing item,10176,in-person,Mumbai,1212,Fraudulent,2,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.045640925,3128078,7190000,25-01-2023,New,Incorrect item,10177,in-person,Chennai,1212,Fraudulent,4,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.796757913,3128894,7193000,25-01-2023,New,Incorrect item,10178,in-person,Mumbai,6981,Not Fraudulent,4,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.117300685,3129710,7196000,26-01-2023,New,Incorrect item,10179,mail,Jaipur,1212,Fraudulent,5,0,Clothing,Accepted,Completed,Satisfied
+0.300607968,3130526,7199000,26-01-2023,Used,Missing item,10180,in-person,Mumbai,1212,Fraudulent,5,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.451214586,3131342,7202000,26-01-2023,Damaged,Defective item,10181,in-person,Chennai,1212,Not Fraudulent,2,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.001123552,3132158,7205000,26-01-2023,Used,Defective item,10182,in-person,Chennai,1212,Fraudulent,3,0,Clothing,Accepted,Completed,Satisfied
+0.405797868,3132974,7364000,26-01-2023,New,Defective item,10183,in-person,Mumbai,6981,Fraudulent,7,4,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.618525967,3133790,7211000,27-01-2023,Used,Defective item,10184,in-person,Chennai,1212,Not Fraudulent,8,4,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.913275019,3134606,7214000,27-01-2023,Damaged,Defective item,10185,mail,Bangalore,1212,Not Fraudulent,6,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.255663169,3135422,7217000,27-01-2023,Used,Missing item,10186,mail,Jaipur,5679,Fraudulent,6,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.613557689,3136238,7220000,27-01-2023,Used,Missing item,10187,in-person,Chennai,1212,Not Fraudulent,8,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.464400098,3137054,7223000,27-01-2023,Used,Missing item,10188,mail,Bangalore,1212,Not Fraudulent,8,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.483712021,3137870,7226000,27-01-2023,New,Incorrect item,10189,in-person,Chennai,6981,Not Fraudulent,5,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.271228285,3138686,7229000,27-01-2023,Used,,10190,in-person,Chennai,4738,Fraudulent,3,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.922750337,3139502,7232000,27-01-2023,New,Incorrect item,10191,in-person,Chennai,1212,Not Fraudulent,6,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.736026107,3140318,7235000,27-01-2023,Used,Missing item,10192,mail,Jaipur,4738,Not Fraudulent,4,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.098831236,3141134,7238000,27-01-2023,New,Incorrect item,10193,mail,Bangalore,5679,Fraudulent,2,2,Clothing,Accepted,Completed,Wrong items delivered
+0.484599859,3141950,7241000,28-01-2023,Used,Missing item,10194,in-person,Mumbai,5679,Not Fraudulent,5,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.196155079,3142766,7244000,28-01-2023,New,Incorrect item,10195,,Chennai,5679,Fraudulent,6,2,Clothing,Accepted,Completed,Wrong items delivered
+0.071243707,3143582,7247000,28-01-2023,Damaged,Defective item,10196,in-person,Mumbai,5679,Fraudulent,10,2,Clothing,Accepted,Completed,Wrong items delivered
+0.186225873,3144398,7250000,28-01-2023,Used,Defective item,10197,in-person,Mumbai,1212,Fraudulent,4,3,Clothing,Accepted,Completed,Wrong items delivered
+0.434762048,3145214,7253000,28-01-2023,New,,10198,in-person,Mumbai,1212,Fraudulent,2,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.229662439,3146030,7256000,28-01-2023,Used,Missing item,10199,in-person,Chennai,6981,Fraudulent,5,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.246241051,3146846,7259000,28-01-2023,Damaged,Defective item,10200,in-person,Mumbai,4738,Fraudulent,8,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.215824935,3147662,7364000,28-01-2023,Used,Missing item,10201,in-person,Mumbai,1212,Fraudulent,5,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.848292058,3148478,7265000,28-01-2023,Damaged,Defective item,10202,in-person,Mumbai,1212,Not Fraudulent,9,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.231734683,3149294,7268000,28-01-2023,Used,Missing item,10203,mail,Jaipur,6981,Fraudulent,6,5,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.159098658,3150110,7364000,28-01-2023,Used,Missing item,10204,in-person,Mumbai,4738,Fraudulent,10,7,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.798471317,3150926,7274000,28-01-2023,Damaged,Incorrect item,10205,in-person,Mumbai,1212,Not Fraudulent,5,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.445796932,3151742,7277000,28-01-2023,Used,Incorrect item,,mail,Jaipur,1212,Fraudulent,2,1,Bags Wallet Luggage,Accepted,Completed,Getting wrong color and sizes
+0.390255721,3152558,7364000,30-01-2023,New,Incorrect item,10207,in-person,Chennai,4738,Fraudulent,5,4,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.06315596,3153374,7364000,30-01-2023,Used,Missing item,10208,in-person,Chennai,1212,Fraudulent,8,0,Clothing,Accepted,Completed,Satisfied
+0.74582723,3154190,7286000,30-01-2023,Used,Missing item,10209,in-person,Mumbai,6981,Not Fraudulent,8,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.879124012,3155006,7289000,30-01-2023,New,Incorrect item,10210,mail,Bangalore,1212,Not Fraudulent,10,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.145700491,3155822,7292000,30-01-2023,Used,Incorrect item,10211,mail,Jaipur,1212,Fraudulent,10,9,Clothing,Accepted,Completed,Extremely poor quality products
+0.812807376,3156638,7295000,30-01-2023,Used,Incorrect item,10212,in-person,Mumbai,4738,Not Fraudulent,5,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.536615269,3157454,7298000,30-01-2023,Damaged,,10213,mail,Jaipur,1212,Not Fraudulent,8,2,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.241534747,3158270,7301000,30-01-2023,Used,Defective item,10214,mail,Bangalore,6981,Fraudulent,2,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.638121086,3159086,7364000,30-01-2023,Used,Defective item,10215,in-person,Mumbai,6981,Not Fraudulent,3,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.709417357,3159902,7364000,30-01-2023,New,Incorrect item,10216,mail,Bangalore,6981,Not Fraudulent,8,5,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.137519311,3160718,7310000,30-01-2023,Used,Missing item,10217,mail,Bangalore,6981,Fraudulent,7,4,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.415021064,3161534,7364000,30-01-2023,Damaged,Defective item,10218,in-person,Mumbai,4657,Fraudulent,7,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.847255736,3162350,7316000,30-01-2023,Used,Missing item,10219,in-person,Chennai,1212,Not Fraudulent,8,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.437152824,3163166,7319000,30-01-2023,Damaged,Missing item,10220,mail,Jaipur,1212,Fraudulent,5,4,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.083209871,3163982,7322000,30-01-2023,Used,Missing item,10221,in-person,Chennai,1212,Fraudulent,7,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.144454935,3164798,7325000,30-01-2023,Used,Missing item,10222,in-person,Mumbai,6981,Fraudulent,3,3,Clothing,Accepted,Completed,Wrong items delivered
+0.146765431,3165614,7328000,31-01-2023,New,Incorrect item,10223,in-person,Mumbai,1212,Fraudulent,10,5,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.592236653,3166430,7331000,31-01-2023,Used,Missing item,10224,in-person,Mumbai,4738,Not Fraudulent,5,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.897762929,3167246,7334000,31-01-2023,New,Incorrect item,10225,mail,Bangalore,1212,Not Fraudulent,7,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.786360309,3168062,7337000,31-01-2023,Used,Missing item,10226,mail,Jaipur,4738,Not Fraudulent,4,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.004532047,3168878,7364000,31-01-2023,New,Incorrect item,10227,mail,Jaipur,1212,Fraudulent,1,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.639978584,3169694,7343000,31-01-2023,Damaged,Defective item,10228,in-person,Mumbai,6981,Not Fraudulent,9,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.035325048,3170510,7346000,31-01-2023,Used,Missing item,10229,mail,Bangalore,4738,Fraudulent,6,3,Clothing,Accepted,Completed,Wrong items delivered
+0.234661769,3171326,7349000,31-01-2023,Used,Missing item,10230,in-person,Mumbai,1212,Fraudulent,7,5,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.862145077,3172142,7352000,31-01-2023,Used,Missing item,10231,in-person,Mumbai,4738,Not Fraudulent,2,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.439004068,3172958,7364000,31-01-2023,Damaged,Defective item,10232,mail,Jaipur,1212,Fraudulent,4,1,Bags Wallet Luggage,Accepted,Completed,Getting wrong color and sizes
+0.602556769,3173774,7358000,31-01-2023,Used,Missing item,10233,in-person,Chennai,6981,Not Fraudulent,2,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.344977093,3174590,7361000,31-01-2023,New,Incorrect item,10234,mail,Bangalore,1212,Fraudulent,4,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.395668126,3175406,7325000,31-01-2023,Used,Missing item,10235,in-person,Chennai,4738,Fraudulent,3,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.9177167,3176222,7328000,31-01-2023,New,Incorrect item,10236,in-person,Chennai,1212,Not Fraudulent,8,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.671305688,3177038,7331000,31-01-2023,Used,Missing item,10237,mail,Jaipur,1212,Not Fraudulent,5,4,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.000487458,3177854,7364000,31-01-2023,Used,Missing item,10238,mail,Bangalore,1212,Fraudulent,8,2,Clothing,Accepted,Completed,Wrong items delivered
+0.926800944,3178670,7337000,31-01-2023,Damaged,Defective item,10239,in-person,Mumbai,6981,Not Fraudulent,1,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.583261868,3179486,6845000,31-01-2023,New,Incorrect item,10240,mail,Jaipur,1212,Not Fraudulent,9,4,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.585781367,3180302,7343000,31-01-2023,Used,Incorrect item,10241,mail,Bangalore,1212,Not Fraudulent,9,3,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.03162403,3181118,7346000,31-01-2023,New,Incorrect item,10242,mail,Bangalore,6981,Fraudulent,10,7,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.795628878,3181934,7349000,31-01-2023,Used,Incorrect item,10243,in-person,Mumbai,1212,Not Fraudulent,6,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.929634013,3182750,6845000,31-01-2023,Damaged,Incorrect item,10244,mail,Jaipur,1212,Not Fraudulent,6,6,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.802112727,3183566,7355000,31-01-2023,Used,Missing item,10245,mail,Jaipur,6981,Not Fraudulent,3,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.444140576,3184382,7358000,31-01-2023,Used,Missing item,10246,mail,Jaipur,1212,Fraudulent,7,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.259850757,3185198,7361000,31-01-2023,Damaged,Defective item,10247,in-person,Chennai,1212,Fraudulent,10,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.922203658,3186014,6845000,31-01-2023,Used,Missing item,10248,in-person,Chennai,1212,Not Fraudulent,10,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.970560727,3186830,7367000,31-01-2023,New,Incorrect item,10249,mail,Jaipur,6981,Not Fraudulent,5,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.579027872,3187646,7370000,31-01-2023,Used,Missing item,10250,mail,Jaipur,1212,Not Fraudulent,6,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.053198032,3188462,7373000,31-01-2023,Used,Missing item,10251,mail,Bangalore,4738,Fraudulent,4,4,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.376672894,3189278,7376000,31-01-2023,Damaged,Defective item,10252,in-person,Mumbai,1212,Fraudulent,1,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.56158099,3190094,7379000,31-01-2023,Used,Missing item,10253,in-person,Chennai,6981,Not Fraudulent,5,5,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.776434892,3190910,7379000,31-01-2023,New,Defective item,10254,mail,Bangalore,1212,Not Fraudulent,2,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.635801983,3191726,7379000,31-01-2023,Used,Defective item,10255,mail,Jaipur,4738,Not Fraudulent,3,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.212722728,3192542,7379000,31-01-2023,Damaged,Defective item,10256,mail,Bangalore,1212,Fraudulent,8,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.176127011,3193358,7391000,31-01-2023,Used,Missing item,10257,in-person,Mumbai,1212,Fraudulent,6,2,Clothing,Accepted,Completed,Wrong items delivered
+0.533884188,3194174,7394000,31-01-2023,Used,Missing item,10258,in-person,Mumbai,4657,Not Fraudulent,5,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.833574218,3194990,7397000,31-01-2023,New,Incorrect item,10259,mail,Bangalore,4738,Not Fraudulent,3,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.912143592,4112345,7343000,10-01-2023,Damaged,Defective item,10260,mail,Jaipur,4657,Not Fraudulent,2,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.691935927,4121354,7346000,10-01-2023,New,Missing item,10261,mail,Mumbai,4657,Not Fraudulent,7,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.620078568,4130363,7349000,10-01-2023,New,Missing item,10262,mail,Mumbai,4657,Not Fraudulent,2,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.740567004,4139372,7352000,10-01-2023,New,Missing item,10263,mail,Mumbai,1212,Not Fraudulent,5,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.784120855,4148381,7364000,10-01-2023,Damaged,Defective item,10264,mail,Jaipur,1212,Not Fraudulent,1,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.046989703,4157390,7358000,10-01-2023,Used,Incorrect item,10265,in-person,Bangalore,1212,Fraudulent,6,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.537105231,4166399,7361000,10-01-2023,New,Missing item,10266,in-person,Mumbai,1212,Not Fraudulent,7,2,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.645323333,4175408,7325000,10-01-2023,New,Missing item,10267,mail,Mumbai,1212,Not Fraudulent,1,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.863814262,4184417,7328000,10-01-2023,Damaged,Defective item,10268,mail,Jaipur,1212,Not Fraudulent,7,5,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.210696731,4193426,7331000,10-01-2023,Used,Incorrect item,10269,in-person,Bangalore,1212,Fraudulent,9,4,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.648981316,4202435,7364000,10-01-2023,New,Missing item,10270,mail,Mumbai,1212,Not Fraudulent,8,6,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.885331243,4211444,7337000,10-01-2023,Damaged,Defective item,10271,mail,Jaipur,1212,Not Fraudulent,9,6,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.841319468,4220453,6845000,10-01-2023,Damaged,Defective item,10272,mail,Jaipur,1212,Not Fraudulent,5,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.025158177,4229462,7343000,10-01-2023,Used,Incorrect item,10273,in-person,Bangalore,1212,Fraudulent,4,0,Clothing,Accepted,Completed,Satisfied
+0.429966853,4238471,7346000,10-01-2023,Used,Incorrect item,10274,in-person,Bangalore,5678,Fraudulent,4,1,Bags Wallet Luggage,Accepted,Completed,Getting wrong color and sizes
+0.820287593,4247480,7349000,25-01-2023,Damaged,Defective item,10275,mail,Jaipur,5678,Not Fraudulent,5,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.066600514,4256489,6845000,25-01-2023,Used,Incorrect item,10276,in-person,Bangalore,5678,Fraudulent,8,2,Clothing,Accepted,Completed,Wrong items delivered
+0.644966353,4265498,7355000,25-01-2023,New,Missing item,10277,mail,Mumbai,5678,Not Fraudulent,5,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.1854846,4274507,7358000,25-01-2023,Used,Incorrect item,10278,in-person,Bangalore,5678,Fraudulent,8,5,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.939839085,4283516,7361000,25-01-2023,Damaged,Defective item,10279,mail,Jaipur,5678,Not Fraudulent,1,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.078267923,4292525,6845000,25-01-2023,Used,Incorrect item,10280,in-person,Bangalore,5678,Fraudulent,5,2,Clothing,Accepted,Completed,Wrong items delivered
+0.887156721,4301534,7367000,25-01-2023,Damaged,Defective item,10281,mail,Jaipur,5678,Not Fraudulent,2,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.397198131,4310543,7370000,25-01-2023,Used,Incorrect item,10282,in-person,Bangalore,5678,Fraudulent,10,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.919258381,4319552,7205000,25-01-2023,Damaged,Defective item,10283,mail,Jaipur,5678,Not Fraudulent,4,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.837726034,4328561,7364000,25-01-2023,Damaged,Defective item,10284,mail,Jaipur,1212,Not Fraudulent,8,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.171789526,4337570,7211000,25-01-2023,Used,Incorrect item,10285,in-person,Bangalore,1212,Fraudulent,10,6,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.387793693,4346579,7214000,26-01-2023,Used,Incorrect item,10286,in-person,Bangalore,6981,Fraudulent,9,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.421997835,4355588,7217000,15-01-2023,Used,Incorrect item,10287,in-person,Bangalore,1212,Fraudulent,1,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.403711537,4364597,7220000,15-01-2023,Used,Incorrect item,10288,in-person,Bangalore,1212,Fraudulent,5,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.774510963,4373606,7223000,15-01-2023,Damaged,Defective item,10289,mail,Jaipur,1212,Not Fraudulent,1,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.857506869,4382615,7226000,16-01-2023,Damaged,Defective item,10290,mail,Jaipur,6981,Not Fraudulent,2,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.618247424,4391624,7229000,16-01-2023,New,Missing item,10291,mail,Mumbai,1212,Not Fraudulent,6,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.695820739,4400633,7232000,16-01-2023,New,Missing item,10292,mail,Mumbai,4738,Not Fraudulent,8,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.507508643,4409642,7235000,16-01-2023,New,Missing item,10293,in-person,Mumbai,1212,Not Fraudulent,9,5,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.673625611,4418651,7238000,16-01-2023,New,Missing item,10294,mail,Mumbai,6981,Not Fraudulent,9,5,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.832537442,4427660,7241000,16-01-2023,Damaged,Defective item,10295,mail,Jaipur,1212,Not Fraudulent,3,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.777130742,4436669,7244000,16-01-2023,Damaged,Defective item,10296,mail,Jaipur,4738,Not Fraudulent,3,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.780522159,4445678,7247000,16-01-2023,Damaged,Defective item,10297,mail,Jaipur,1212,Not Fraudulent,1,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.36759405,4454687,7250000,17-01-2023,Used,Incorrect item,10298,in-person,Bangalore,1212,Fraudulent,9,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.167337914,4463696,7253000,17-01-2023,Used,Incorrect item,10299,in-person,Bangalore,4657,Fraudulent,1,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.512541091,4472705,7256000,17-01-2023,New,Missing item,10300,in-person,Mumbai,4738,Not Fraudulent,8,2,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.640698073,4481714,7259000,10-01-2023,New,Missing item,10301,mail,Mumbai,6981,Not Fraudulent,9,8,Electronic Gadgets,Not Accepted,Not Completed,Extremely poor quality products
+0.957532245,4490723,6812000,10-01-2023,Damaged,Defective item,10302,mail,Jaipur,6981,Not Fraudulent,4,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.999705989,4499732,6710000,10-01-2023,Damaged,Defective item,10303,mail,Jaipur,6981,Not Fraudulent,10,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.201287461,4508741,6713000,10-01-2023,Used,Incorrect item,10304,in-person,Bangalore,6981,Fraudulent,8,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.516618449,4517750,6716000,10-01-2023,New,Missing item,10305,in-person,Mumbai,6981,Not Fraudulent,5,4,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.229528655,4526759,6719000,10-01-2023,Used,Incorrect item,10306,in-person,Bangalore,6981,Fraudulent,9,8,Shoes and Footwear,Accepted,Completed,Extremely poor quality products
+0.378076199,4535768,6722000,10-01-2023,Used,Incorrect item,10307,in-person,Bangalore,6981,Fraudulent,4,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.881824572,4544777,6722000,10-01-2023,Damaged,Defective item,10308,mail,Jaipur,6981,Not Fraudulent,5,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.915475962,4553786,6722000,10-01-2023,Damaged,Defective item,10309,mail,Jaipur,7141,Not Fraudulent,4,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.882701046,4562795,6722000,11-01-2023,Damaged,Defective item,10310,mail,Jaipur,6981,Not Fraudulent,7,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.084003001,4571804,6722000,11-01-2023,Used,Incorrect item,10311,in-person,Bangalore,3452,Fraudulent,9,2,Clothing,Accepted,Completed,Wrong items delivered
+0.377658508,4580813,6722000,15-01-2023,Used,Incorrect item,10312,in-person,Bangalore,5678,Fraudulent,10,4,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.105396433,4589822,6722000,15-01-2023,Used,Incorrect item,10313,in-person,Bangalore,5679,Fraudulent,2,2,Clothing,Accepted,Completed,Wrong items delivered
+0.905791949,4598831,6743000,16-01-2023,Damaged,Defective item,10314,mail,Jaipur,4657,Not Fraudulent,1,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.372772889,4607840,6746000,16-01-2023,Used,Incorrect item,10315,in-person,Bangalore,4738,Fraudulent,10,5,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.980376299,4616849,6749000,16-01-2023,Damaged,Defective item,10316,mail,Jaipur,1212,Not Fraudulent,2,2,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.435887022,4625858,6752000,16-01-2023,Used,Incorrect item,10317,in-person,Bangalore,1212,Fraudulent,6,6,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.420063155,4634867,6755000,16-01-2023,Used,Incorrect item,10318,in-person,Bangalore,1212,Fraudulent,2,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.222982361,4643876,6758000,16-01-2023,Used,Incorrect item,10319,in-person,Bangalore,7141,Fraudulent,1,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.858828819,4652885,6761000,16-01-2023,Damaged,Defective item,10320,mail,Jaipur,7141,Not Fraudulent,3,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.526540419,4661894,6764000,16-01-2023,New,Missing item,10321,in-person,Mumbai,6981,Not Fraudulent,9,2,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.762466588,4670903,6767000,31-01-2023,Damaged,Defective item,10322,mail,Jaipur,3452,Not Fraudulent,8,6,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.215025111,4679912,6770000,31-01-2023,Used,Incorrect item,10323,in-person,Bangalore,5678,Fraudulent,5,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.623435107,4688921,7199000,31-01-2023,New,Missing item,10324,mail,Mumbai,5679,Not Fraudulent,5,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.38564388,4697930,7202000,31-01-2023,Used,Incorrect item,10325,in-person,Bangalore,4657,Fraudulent,5,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.541740338,4706939,7205000,31-01-2023,New,Missing item,10326,in-person,Mumbai,4738,Not Fraudulent,1,1,Bags Wallet Luggage,Not Accepted,Not Completed,Getting wrong color and sizes
+0.820580991,4715948,7364000,31-01-2023,Damaged,Defective item,10327,mail,Jaipur,1212,Not Fraudulent,9,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.090618887,4724957,7211000,31-01-2023,Used,Incorrect item,10328,in-person,Bangalore,1212,Fraudulent,8,0,Clothing,Accepted,Completed,Satisfied
+0.184493057,4733966,7214000,31-01-2023,Used,Incorrect item,10329,in-person,Bangalore,1212,Fraudulent,2,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.554341266,4742975,7217000,31-01-2023,New,Missing item,10330,in-person,Mumbai,7141,Not Fraudulent,1,1,Bags Wallet Luggage,Not Accepted,Not Completed,Getting wrong color and sizes
+0.920738886,4751984,7220000,31-01-2023,Damaged,Defective item,10331,mail,Jaipur,7141,Not Fraudulent,3,1,Sports Fitness,Not Accepted,Not Completed,Getting wrong color and sizes
+0.377446306,4760993,7223000,31-01-2023,Used,Incorrect item,10332,in-person,Bangalore,7141,Fraudulent,4,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.753783959,4770002,7226000,24-01-2023,Damaged,Defective item,10333,mail,Jaipur,7141,Not Fraudulent,4,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.465801064,4779011,7229000,25-01-2023,Used,Incorrect item,10334,in-person,Bangalore,7141,Not Fraudulent,4,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.911559991,4788020,7229163.636,26-01-2023,Damaged,Defective item,10335,mail,Jaipur,7141,Not Fraudulent,1,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.206781582,4797029,7229327.273,27-01-2023,Used,Incorrect item,10336,in-person,Bangalore,7141,Fraudulent,5,2,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.046421194,4806038,7229490.909,28-01-2023,Used,Incorrect item,10337,in-person,Bangalore,7141,Fraudulent,2,2,Clothing,Accepted,Completed,Wrong items delivered
+0.154646196,4815047,7229654.545,26-01-2023,Used,Incorrect item,10338,in-person,Bangalore,7141,Fraudulent,6,2,Clothing,Accepted,Completed,Wrong items delivered
+0.731198796,4824056,7229818.182,26-01-2023,New,Missing item,10339,mail,Mumbai,7141,Not Fraudulent,4,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.13017661,4833065,6812000,26-01-2023,Used,Incorrect item,10340,in-person,Bangalore,7141,Fraudulent,4,2,Clothing,Accepted,Completed,Wrong items delivered
+0.957676697,4842074,6710000,26-01-2023,Damaged,Defective item,10341,mail,Jaipur,7141,Not Fraudulent,5,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.36999902,4851083,6713000,26-01-2023,Used,Incorrect item,10342,in-person,Bangalore,7141,Fraudulent,10,9,Shoes and Footwear,Accepted,Completed,Extremely poor quality products
+0.063573429,4860092,6716000,26-01-2023,Used,Incorrect item,10343,in-person,Bangalore,,Fraudulent,1,0,Clothing,Accepted,Completed,Satisfied
+0.119950228,4869101,6719000,22-01-2023,Used,Incorrect item,10344,in-person,Bangalore,,Fraudulent,6,3,Clothing,Accepted,Completed,Wrong items delivered
+0.702884152,4878110,6722000,22-01-2023,New,Missing item,10345,mail,Mumbai,,Not Fraudulent,5,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.632033674,4887119,6722000,22-01-2023,New,Missing item,10346,mail,Mumbai,3452,Not Fraudulent,1,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.247021367,4896128,6722000,22-01-2023,Used,Incorrect item,10347,in-person,Bangalore,3452,Fraudulent,3,3,Shoes and Footwear,Accepted,Completed,Wrong items delivered
+0.50722688,4905137,6722000,22-01-2023,New,Missing item,10348,in-person,Mumbai,3452,Not Fraudulent,4,4,Bags Wallet Luggage,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.20378925,4914146,6722000,22-01-2023,Used,Incorrect item,10349,in-person,Bangalore,3452,Fraudulent,2,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.023200773,4923155,6722000,22-01-2023,Used,Incorrect item,10350,in-person,Bangalore,3452,Fraudulent,9,7,Clothing,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.418403049,4932164,6722000,22-01-2023,Used,Incorrect item,10351,in-person,Bangalore,3452,Fraudulent,1,0,Bags Wallet Luggage,Accepted,Completed,Satisfied
+0.993918766,4941173,6743000,22-01-2023,Damaged,Defective item,10352,mail,Jaipur,3452,Not Fraudulent,4,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.218642627,4950182,6746000,22-01-2023,Used,Incorrect item,10353,in-person,Bangalore,3452,Fraudulent,4,4,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.076055012,4959191,6749000,22-01-2023,Used,Incorrect item,10354,in-person,Bangalore,3452,Fraudulent,4,3,Clothing,Accepted,Completed,Wrong items delivered
+0.274592791,4968200,6752000,22-01-2023,Used,Incorrect item,10355,in-person,Bangalore,3452,Fraudulent,8,4,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.803393581,4977209,6755000,23-01-2023,Damaged,Defective item,10356,mail,Jaipur,3452,Not Fraudulent,7,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.795287027,4986218,6758000,22-01-2023,Damaged,Defective item,10357,mail,Jaipur,3452,Not Fraudulent,3,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.064323216,4995227,6761000,22-01-2023,Used,Incorrect item,10358,in-person,Bangalore,3452,Fraudulent,7,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.630726522,5004236,6764000,22-01-2023,New,Missing item,10359,mail,Mumbai,3452,Not Fraudulent,1,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.278404121,5013245,6767000,22-01-2023,Used,Incorrect item,10360,in-person,Bangalore,3452,Fraudulent,6,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.727447683,5022254,6770000,22-01-2023,New,Missing item,10361,mail,Mumbai,3452,Not Fraudulent,5,4,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.043044728,5031263,6791000,22-01-2023,Used,Incorrect item,10362,in-person,Bangalore,7141,Fraudulent,2,2,Clothing,Accepted,Completed,Wrong items delivered
+0.463705611,5040272,6806000,22-01-2023,Used,Incorrect item,10363,in-person,Bangalore,6981,Not Fraudulent,10,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.167856313,5049281,6809000,22-01-2023,Used,Incorrect item,10364,in-person,Bangalore,3452,Fraudulent,10,1,Clothing,Accepted,Completed,Getting wrong color and sizes
+0.021140223,5058290,6812000,22-01-2023,Used,Incorrect item,10365,in-person,Bangalore,5678,Fraudulent,9,0,Clothing,Accepted,Completed,Satisfied
+0.760459922,5067299,6710000,22-01-2023,Damaged,Defective item,10366,mail,Jaipur,5679,Not Fraudulent,7,5,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.454641295,5076308,6713000,22-01-2023,Used,Incorrect item,10367,in-person,Bangalore,4657,Not Fraudulent,1,1,Bags Wallet Luggage,Accepted,Completed,Getting wrong color and sizes
+0.256478886,5085317,6716000,22-01-2023,Used,Incorrect item,10368,in-person,Bangalore,4738,Fraudulent,10,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.619316658,5094326,6719000,23-01-2023,New,Missing item,10369,mail,Mumbai,1212,Not Fraudulent,3,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.478869325,5103335,6722000,22-01-2023,Used,Incorrect item,10370,in-person,Bangalore,1212,Not Fraudulent,3,1,Bags Wallet Luggage,Accepted,Completed,Getting wrong color and sizes
+0.03740945,5112344,6722000,22-01-2023,Used,Incorrect item,10371,in-person,Bangalore,1212,Fraudulent,2,0,Clothing,Accepted,Completed,Satisfied
+0.398862776,5121353,6722000,22-01-2023,Used,Incorrect item,10372,in-person,Bangalore,7141,Fraudulent,7,6,Shoes and Footwear,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.956282168,5130362,6722000,22-01-2023,Damaged,Defective item,10373,mail,Jaipur,7141,Not Fraudulent,3,3,Sports Fitness,Not Accepted,Not Completed,Wrong items delivered
+0.570853535,5139371,6722000,22-01-2023,New,Missing item,10374,mail,Mumbai,6981,Not Fraudulent,4,3,Bags Wallet Luggage,Not Accepted,Not Completed,Wrong items delivered
+0.558279816,5148380,6722000,22-01-2023,New,Missing item,10375,in-person,Mumbai,3452,Not Fraudulent,1,1,Bags Wallet Luggage,Not Accepted,Not Completed,Getting wrong color and sizes
+0.604134697,5157389,6722000,22-01-2023,New,Missing item,10376,mail,Mumbai,5678,Not Fraudulent,3,3,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.905725294,5166398,6743000,22-01-2023,Damaged,Defective item,10377,mail,Jaipur,5679,Not Fraudulent,4,4,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.971098961,5175407,6746000,22-01-2023,Damaged,Defective item,10378,mail,Jaipur,4657,Not Fraudulent,9,8,Sports Fitness,Not Accepted,Not Completed,Extremely poor quality products
+0.463197708,5184416,6749000,22-01-2023,Used,Incorrect item,10379,in-person,Bangalore,4738,Not Fraudulent,10,2,Bags Wallet Luggage,Accepted,Completed,Wrong items delivered
+0.841434497,5193425,6752000,22-01-2023,Damaged,Defective item,10380,mail,Jaipur,1212,Not Fraudulent,5,5,Sports Fitness,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.123962896,5202434,6755000,22-01-2023,Used,Incorrect item,10381,in-person,Bangalore,1212,Fraudulent,5,0,Clothing,Accepted,Completed,Satisfied
+0.582260909,5211443,6758000,23-01-2023,New,Missing item,10382,mail,Mumbai,1212,Not Fraudulent,3,0,Bags Wallet Luggage,Not Accepted,Not Completed,Satisfied
+0.832928668,5220452,6761000,22-01-2023,Damaged,Defective item,10383,mail,Jaipur,7141,Not Fraudulent,1,0,Sports Fitness,Not Accepted,Not Completed,Satisfied
+0.79942264,5229461,6764000,22-01-2023,Damaged,Defective item,10384,mail,Jaipur,7141,Not Fraudulent,1,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.705550888,5238470,6767000,22-01-2023,New,Missing item,10385,mail,Mumbai,6981,Not Fraudulent,3,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.69355066,5247479,6770000,22-01-2023,New,Missing item,10386,mail,Mumbai,3452,Not Fraudulent,5,2,Electronic Gadgets,Not Accepted,Not Completed,Wrong items delivered
+0.575109181,5256488,6773000,22-01-2023,New,Missing item,10387,mail,Mumbai,5678,Not Fraudulent,8,1,Bags Wallet Luggage,Not Accepted,Not Completed,Getting wrong color and sizes
+0.657041462,5265497,6776000,22-01-2023,New,Missing item,10388,mail,Mumbai,5679,Not Fraudulent,2,0,Electronic Gadgets,Not Accepted,Not Completed,Satisfied
+0.186665408,5274506,6779000,22-01-2023,Used,Incorrect item,10389,in-person,Bangalore,4657,Fraudulent,10,10,Clothing,Accepted,Completed,Extremely poor quality products
+0.19355105,5283515,6779000,22-01-2023,Used,Incorrect item,10390,in-person,Bangalore,4738,Fraudulent,9,2,Clothing,Accepted,Completed,Wrong items delivered
+0.32510562,5292524,6779000,22-01-2023,Used,Incorrect item,10391,in-person,Bangalore,1212,Fraudulent,1,0,Shoes and Footwear,Accepted,Completed,Satisfied
+0.166517262,5301533,6779000,22-01-2023,Used,Incorrect item,10392,in-person,Bangalore,1212,Fraudulent,7,0,Clothing,Accepted,Completed,Satisfied
+0.797729979,5310542,6779000,22-01-2023,Damaged,Defective item,10393,mail,Jaipur,1212,Not Fraudulent,6,1,Electronic Gadgets,Not Accepted,Not Completed,Getting wrong color and sizes
+0.329194847,5319551,6779000,22-01-2023,Used,Incorrect item,10394,in-person,Bangalore,7141,Fraudulent,1,1,Shoes and Footwear,Accepted,Completed,Getting wrong color and sizes
+0.67620409,5328560,6797000,22-01-2023,New,Missing item,10395,mail,Mumbai,4657,Not Fraudulent,4,4,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
+0.41952339,5337569,6800000,22-01-2023,Used,Incorrect item,10396,in-person,Bangalore,4657,Fraudulent,7,6,Bags Wallet Luggage,Accepted,Completed,Always gets wrong item and poor quality products as well
+0.980384029,5346578,6803000,22-01-2023,Damaged,Defective item,10397,mail,Jaipur,4657,Not Fraudulent,10,10,Sports Fitness,Not Accepted,Not Completed,Extremely poor quality products
+0.198509984,5355587,6806000,22-01-2023,Used,Incorrect item,10398,in-person,Bangalore,4657,Fraudulent,6,0,Clothing,Accepted,Completed,Satisfied
+0.671799971,5364596,6809000,22-01-2023,New,Missing item,10399,mail,Mumbai,4657,Not Fraudulent,7,7,Electronic Gadgets,Not Accepted,Not Completed,Always gets wrong item and poor quality products as well
